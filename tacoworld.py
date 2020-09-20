@@ -1,4 +1,4 @@
-print("I, Zach Lamberty,want tacos more than anyone,especially more than iris")
+print("Today, actually, I, want OTR")
 
 print("I, Iris, want tacos!!")
 
